@@ -7,16 +7,16 @@ body {
   font-family: 'Times New Roman';
 }
 
-body {
+/*body {
   padding-top: 54px;
 }
-
-@media (min-width: 992px) {
+*/
+/*@media (min-width: 992px) {
   body {
     padding-top: 56px;
   }
 }
-
+*/
 header.masthead {
   background: url('../truly_happy_banner.jpg') no-repeat center center scroll;
   -webkit-background-size: cover;
